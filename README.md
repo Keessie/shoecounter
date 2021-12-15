@@ -3,6 +3,9 @@ Counts objects passing over the sensor. A count passes as valid if the distance 
 
 
 Hardware used;
-*Arduino nano 
-*HC-SR04
-*SSD1306 132 * 64 i2c OLED
+
+//Arduino nano 
+
+//HC-SR04
+
+//SSD1306 132 * 64 i2c OLED
